@@ -1,39 +1,19 @@
 {
-    "Estudiantes": {
-        "C.I.": [
-            {
-                "24802549": {
-                    "Nombre": "Billy",
-                    "Apellido": "Atom",
-                    "Nota": [
-                        3,
-                        5,
-                        0
-                    ]
-                }
-            },
-            {
-                "25666748": {
-                    "Nombre": "Mandy",
-                    "Apellido": "Atom",
-                    "Nota": [
-                        15,
-                        14,
-                        16
-                    ]
-                }
-            },
-            {
-                "19879325": {
-                    "Nombre": "Puro Hueso",
-                    "Apellido": "Atom",
-                    "Nota": [
-                        20,
-                        20,
-                        19
-                    ]
-                }
-            }
-        ]
-    }
+    "Ferreteria": [
+        {
+            "Nombre": "Martillo",
+            "Descripcion": "This is a hammer description",
+            "Precio": 300
+        },
+        {
+            "Nombre": "Destornillador",
+            "Descripcion": "This is a description",
+            "Precio": 400
+        },
+        {
+            "Nombre": "Taladro",
+            "Descripcion": "Maquina que perfora paredes",
+            "Precio": 500
+        }
+    ]
 }
